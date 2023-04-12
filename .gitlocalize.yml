@@ -3,3 +3,4 @@ pretranslate:
   - source: .
     include:
       - "advanced_autodiff.ipynb"
+      - "web.json"
